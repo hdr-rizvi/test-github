@@ -36,5 +36,6 @@ Now i am repeating step-1 for reconfirmation and practice
 > (i). Upto this step master baranch is updated upto step 1, however branch-1 on github.com is updated upto step2(iii). 
 
 > (ii). Now we will finally have two tests that remains
-    > (a). copy baranch-1 to baranch-2 
-    > (b). update master baranch from baranch-1 or baranch-2
+    > (a). copy baranch-1 to baranch-2.
+    > (b). update master baranch from baranch-1 or baranch-2.
+    
