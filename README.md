@@ -28,4 +28,4 @@ Now i am repeating step-1 for reconfirmation and practice
 
 > (ii). In step 2(i), i update readme file in baranch-1 without updating main baranch, by (a) commiting  (b) pusing. It WORKED. In this step I am again commiting the baranch-1 and by commiting it and pusing it. BUT THIS TIME USING VS CODE
 
-> (iii). Step(ii) worked well I commited and pushes from the VS CODE, it worked best. Now repeating again through git desktop. Also note just commiting doesnot update web-version unlest pushes
+> (iii). Step(ii) worked well I commited and pushes from the VS CODE, it worked best. Now repeating again through git desktop. Also note just commiting doesnot update web-version unless pushes
